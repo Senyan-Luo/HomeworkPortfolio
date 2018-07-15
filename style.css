@@ -1,0 +1,35 @@
+
+    
+body{
+    background-color: #a0e0af;
+}
+.jumbotron{
+    background-color: #ffc107;
+}
+h1{
+    color:white;
+}
+.carousel-control-next{
+    background-color: #ffc107;
+    margin-top: 2%;
+}
+.carousel-control-prev{
+    background-color: #ffc107;
+    margin-top: 2%;
+}
+.d-block{
+    Width:70%;
+    margin-left:15%;
+    margin-top: 2%;
+}
+.card{
+    margin: 8% auto;
+    background-color: #ffc107;
+}
+.fa-github{
+    font-size: 3em;
+    margin-top:1%;
+}
+.links{
+    margin-top:20%;
+}
